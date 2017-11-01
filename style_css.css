@@ -1,0 +1,13 @@
+.rama {
+	display: inline;
+}
+
+.plakat {
+		width: 25%;
+		height: 100%;
+		vertical-align: top;
+}
+
+.galeria {
+	font-size: 0px; //dzięki temu nie ma odstępów pomiędzy obrazkami
+}
