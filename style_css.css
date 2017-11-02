@@ -1,14 +1,33 @@
+header{
+	font-family: "Verdana", Sans-serif;
+	text-align: center;
+	text-shadow: 2px 2px #bfbfbf;
+}
+
+figcaption{
+	font-family: "Verdana", Sans-serif;
+	text-align: left;
+	text-shadow: 2px 2px #bfbfbf;
+	text-transform: uppercase;
+}
+
+img{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.galeria {
+	background-image: url("plakaty/klisza2.jpg");
+}
+
 .rama {
 	display: inline-block;
 	width: 25%;
 	margin-bottom: 25px;
+	margin-right: -45px;
 }
 
 .plakat {
 	vertical-align: top;
 	width: 70%;
-}
-
-.galeria {
-	font-size: 0px; //dzięki temu nie ma odstępów pomiędzy obrazkami
 }
